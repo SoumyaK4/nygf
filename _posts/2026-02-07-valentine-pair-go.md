@@ -63,7 +63,7 @@ Can Baduk awaken your soul in this moment? “A true Baduk master places stones 
 
 #### BadukBum (Philippines):
 
-They call me bum. My name is true to my go- lazy in terms of studying but enjoys casual games. Nowadays i just say im a fox player and yknow what that means. My main hangout is twitch. I dont consider myself a strong player or a teacher but i like being a part of community and get people connected. Use my platform to chill, promote go and support my fellow content creators.
+They call me Bum. My name is true to form: lazy in terms of studying. Nowadays, I just say I'm a Fox player, and you know what that means. My main hangout is Twitch, where I grind tsumego and play casual games. I don't see myself as a competitive player since life's gotten busier, but I enjoy creating Go-related art, organizing events, and sometimes I teach kids Go. I believe in balancing mind and body, which is why I also like running (depression hates a moving target, right?). Hope we can keep this up for as long as possible.
 
 
 
