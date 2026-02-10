@@ -2,7 +2,7 @@
 title: Pair Go Event
 description: Celebrate the Love for Go with Deep Baduk KBA 6D
 image: 
- path: /assets/img/posts/pair-go1.webp
+ path: /assets/img/posts/valentines.webp
  lqip: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/
 pin: true
 date: 2026-02-07 00:00:00 +0530
@@ -63,10 +63,7 @@ Can Baduk awaken your soul in this moment? “A true Baduk master places stones 
 
 #### BadukBum (Philippines):
 
-They call me Bum. My name is true to form: lazy in terms of studying. Nowadays, I just say I'm a Fox player, and you know what that means. My main hangout is Twitch, where I grind tsumego and play casual games. I don't see myself as a competitive player since life's gotten busier, but I enjoy creating Go-related art, organizing events, and sometimes I teach kids Go. I believe in balancing mind and body, which is why I also like running (depression hates a moving target, right?). Hope we can keep this up for as long as possible.
-
-
-
+They call me Bum. My name's true to form: lazy in terms of studying. Nowadays, I just say I’m a Fox player – that's why you're gonna find me on Twitch, grinding tsumego and playing casual games. I don’t see myself as a competitive player since life’s gotten busier, but I enjoy creating Go-related art, organizing events, and teaching kids Go. I'm learning to balance mind and body, inspired by my running family. Hope we can keep this up for as long as possible!
 
 ## Host:
 [lepin9fd](https://www.twitch.tv/lepin9fd) (USA)
@@ -74,13 +71,13 @@ They call me Bum. My name is true to form: lazy in terms of studying. Nowadays, 
 Hi, I'm Drew aka lepin9fd. I love go and promoting people that're doing cool things.
 
 ## Rules/Notes:
-- ❤️ No time setting
-- ❤️ No hinting the next move
-- ❤️ Teacher will talk/review while playing (players won't join Zoom during game)
-- ❤️ Post-game review/discussion on Zoom (players invited)
-- ❤️ Viewer Questions: Zoom chat (direct), Twitch chat (relayed by host)
-- ❤️ Games are played on the Badukking app
-- ❤️ Recording & upload TBC
+- No time setting
+- No hinting the next move
+- Teacher will talk/review while playing (players won't join Zoom during game)
+- Post-game review/discussion on Zoom (players invited)
+- Viewer Questions: Zoom chat (direct), Twitch chat (relayed by host)
+- Games are played on the Badukking app
+- Recording & upload TBC
 
 ## Live Stream: 
 [https://www.twitch.tv/lepin9fd](https://www.twitch.tv/lepin9fd)
