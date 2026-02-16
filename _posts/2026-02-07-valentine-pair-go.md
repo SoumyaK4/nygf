@@ -91,8 +91,8 @@ Hi, I'm Drew aka lepin9fd. I love go and promoting people that're doing cool thi
 ### Discord:
 [https://discord.gg/y3YSXh4qYA](https://discord.gg/y3YSXh4qYA)
 
-### Zoom Link:
-TBA
+### Recording:
+{% include embed/youtube.html id='nTkDRLrM7eE' %}
 
 ## Support:
 
