@@ -10,7 +10,7 @@ date: 2026-06-26 00:00:00 +0530
 
 ## Teacher
 
-- Name: Deep Baduk, 
+- Name: Deep Baduk 
 - Country: Korea 
 - Rank:  KBA 6 Dan
 
@@ -83,8 +83,7 @@ https://www.youtube.com/@ken5sleep3 <br>
 - Country: Philippines
 - Bio: Casual player/streamer. My main hobbies are art and baduk.
 
-[https://www.twitch.tv/badukbum](https://www.twitch.tv/badukbum) 
-
+[https://www.twitch.tv/badukbum](https://www.twitch.tv/badukbum) <br>
 [https://ko-fi.com/badukbum](https://ko-fi.com/badukbum)
 
 ### Live Stream:
@@ -98,6 +97,5 @@ https://www.youtube.com/@ken5sleep3 <br>
 
 Join us for our monthly event series with guest teacher Deep Baduk! All levels are welcome with priority spots for channel subscribers and supporters. Subscribe if you want to participate or help fuel our initiative! Contact: BadukBum (Discord/Twitch) 
 
-[https://www.twitch.tv/badukbum](https://www.twitch.tv/badukbum) 
-
+[https://subs.twitch.tv/badukbum](https://subs.twitch.tv/badukbum) <br>
 [https://ko-fi.com/badukbum](https://ko-fi.com/badukbum)
