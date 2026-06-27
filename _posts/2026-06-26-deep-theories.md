@@ -10,7 +10,9 @@ date: 2026-06-26 00:00:00 +0530
 
 ## Teacher
 
-Deep Baduk, Korea - KBA 6 Dan - [https://www.youtube.com/@deepbaduk](https://www.youtube.com/@deepbaduk)
+- Name: Deep Baduk, 
+- Country: Korea 
+- Rank:  KBA 6 Dan
 
 _Life is the continual creation of order within the universe. At Deep Baduk Academy, we cultivate the balance of life unfolding through the cycles of the universe._
 _I focus on Go and empty my mind, cleansing it of thoughts that have outlived their use. In this openness, new ideas begin to sprout, and I become help to the Earth. Through this practice, the “I” as an individual is refined into the “I” of the whole._
@@ -23,6 +25,8 @@ My dream is to establish a ‘Yin-Yang Five Elements School’ where people worl
 - Studying for master of Oriental Culture
 
 Can Baduk awaken your soul in this moment? “A true Baduk master places stones not just on the board but in the deep soul of learners.” 
+
+[https://www.youtube.com/@deepbaduk](https://www.youtube.com/@deepbaduk)
 
 ## Session 1
 
@@ -72,15 +76,16 @@ https://www.youtube.com/@ken5sleep3 <br>
 - Country: Living between Korea and Quebec
 - Bio: Jean-François (재푸). I eat go: teaching it, playing it, dissecting it. The board is wide open, let's make every game ours!
 
-[https://www.twitch.tv/bonesaw_baduk](https://www.twitch.tv/bonesaw_baduk)
-
 #### Player 4
 
 - Name: BadukBum
 - Rank: Fox 3D
 - Country: Philippines
 - Bio: Casual player/streamer. My main hobbies are art and baduk.
+
 [https://www.twitch.tv/badukbum](https://www.twitch.tv/badukbum) 
+
+[https://ko-fi.com/badukbum](https://ko-fi.com/badukbum)
 
 ### Live Stream:
 [https://www.twitch.tv/badukbum](https://www.twitch.tv/badukbum)
@@ -91,4 +96,8 @@ https://www.youtube.com/@ken5sleep3 <br>
 
 ## Support:
 
-Join us for our monthly events with guest teacher Deep Baduk. All levels are welcome with priority spots for channel subscribers and supporters! Subscribe here to participate or help fuel our initiative: [https://www.twitch.tv/badukbum](https://www.twitch.tv/badukbum) or [https://ko-fi.com/badukbum](https://ko-fi.com/badukbum)
+Join us for our monthly event series with guest teacher Deep Baduk! All levels are welcome with priority spots for channel subscribers and supporters. Subscribe if you want to participate or help fuel our initiative! Contact: BadukBum (Discord/Twitch) 
+
+[https://www.twitch.tv/badukbum](https://www.twitch.tv/badukbum) 
+
+[https://ko-fi.com/badukbum](https://ko-fi.com/badukbum)
