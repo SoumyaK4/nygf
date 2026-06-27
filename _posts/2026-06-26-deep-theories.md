@@ -11,8 +11,8 @@ date: 2026-06-26 00:00:00 +0530
 ## Teacher
 
 - Name: Deep Baduk 
-- Country: Korea 
 - Rank:  KBA 6 Dan
+- Country: Korea 
 
 _Life is the continual creation of order within the universe. At Deep Baduk Academy, we cultivate the balance of life unfolding through the cycles of the universe._
 _I focus on Go and empty my mind, cleansing it of thoughts that have outlived their use. In this openness, new ideas begin to sprout, and I become help to the Earth. Through this practice, the “I” as an individual is refined into the “I” of the whole._
